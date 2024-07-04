@@ -1,0 +1,35 @@
+.blog{
+    font-size: medium;
+    font-family: fantasy;
+    background-color: aquamarine;
+    margin: 10px 5px 10px 5px;
+    margin-top: 200px;
+    text-align: justify;
+    padding: 15px;
+    border: 2px solid black;
+    border-radius: 50px;
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/African_Bush_Elephant.jpg/800px-African_Bush_Elephant.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    color:rebeccapurple;
+    box-shadow: 10px 10px 10px black;
+
+
+  }
+.listing{
+  width: 100%;
+  margin-top: 200px;
+  margin-bottom: 200px;
+  
+ 
+}
+ol{
+  list-style-type: none;
+}
+li{
+  color: black;
+  display: inline-block;
+  margin: 5px 0px 5px 150px;
+
+  
+}
